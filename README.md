@@ -32,7 +32,7 @@ Since the `vmware-user` daemon crashes due to a GTK initialization bug, this wor
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/vmware-kali-display-fix.git
+git clone https://github.com/lonewolf1982/vmware-kali-display-fix.git
 cd vmware-kali-display-fix
 
 # Run the installer
@@ -155,4 +155,4 @@ MIT License - See [LICENSE](LICENSE) file.
 
 ## Author
 
-Created by [DJ](https://github.com/YOUR_USERNAME) - Vexera Consulting LLC
+Created by [DJ](https://github.com/lonewolf1982) - Vexera Consulting LLC
