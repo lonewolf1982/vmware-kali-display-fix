@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=VMware Resize Monitor
+Comment=Workaround for vmware-user GTK crash - auto-adjusts display resolution
+Exec=$HOME/.local/bin/vmware-resize-monitor.sh
+Hidden=false
+NoDisplay=true
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=5
